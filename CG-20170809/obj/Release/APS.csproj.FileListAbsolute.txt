@@ -1,0 +1,8 @@
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\bin\Release\CG-20170809.exe
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\bin\Release\CG-20170809.pdb
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\obj\Release\ResolveAssemblyReference.cache
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\obj\Release\APS.csproj.GenerateResource.Cache
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\obj\Release\CG-20170809.exe
+D:\Eduardo Araujo\Documents\unip-aps6\CG-20170809\obj\Release\CG-20170809.pdb
